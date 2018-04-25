@@ -24,6 +24,14 @@ bin/terservice
 bin/thermal_manager
 bin/wifi2agps
 bin/wmt_loader
+etc/arkamys/ArkamysAudioService.xml
+etc/arkamys/config_presets/0_TUNING
+etc/arkamys/config_presets/10_HDP_Natural
+etc/arkamys/config_presets/1_SPK
+etc/arkamys/config_presets/8_BYPASS
+etc/arkamys/config_presets/9_BYPASS
+etc/arkamys/volume_table
+etc/audio_param/AudioParamOptions.xml
 etc/bluetooth/auto_pair_devlist.conf
 etc/bluetooth/bt_did.conf
 etc/bluetooth/bt_stack.conf
@@ -48,6 +56,9 @@ etc/firmware/ROMv2_lm_patch_1_1_hdr.bin
 etc/firmware/WIFI_RAM_CODE_6735
 etc/firmware/WMT_SOC.cfg
 etc/fmr/mt6627_fm_cust.cfg
+etc/mddb/BPLGUInfoCustomAppSrcP_MT6735_S00_MOLY_LR9_W1444_MD_LWTG_MP_V79_P28_1_lwg_n
+etc/mddb/BPMdMetaDatabase_MOLY_LR9_W1444_MD_LWTG_MP_V79_P28_1_lwg_n
+etc/mddb/DbgInfo_LR9.W1444.MD.LWTG.MP_ZTESH6753_65T_M0_MOLY_LR9_W1444_MD_LWTG_MP_V79_P28_2017_02_08_22_55_1_lwg_n
 etc/media_codecs_mediatek_audio.xml
 etc/media_codecs_mediatek_video.xml
 etc/mtklog-config.prop
@@ -220,6 +231,7 @@ lib{,64}/libvp8enc_sa.ca7.so
 lib{,64}/libvp9dec_sa.ca7.so
 lib{,64}/mtk-rilmd2.so
 lib{,64}/mtk-ril.so
+lib{,64}/soundfx/libarkamys.so
 usr/keylayout/ACCDET.kl
 usr/keylayout/AVRCP.kl
 usr/keylayout/mtk-kpd.kl
