@@ -114,7 +114,6 @@ lib{,64}/libcam.device1.so
 lib{,64}/libcam.device3.so
 lib{,64}/libcamdrv.so
 lib{,64}/libcameracustom.so
-lib{,64}/libcamera_metadata.so
 lib{,64}/libcam.exif.so
 lib{,64}/libcam.exif.v3.so
 lib{,64}/libcam.hal3a.v3.dng.so
@@ -134,13 +133,10 @@ lib{,64}/libcam.utils.sensorlistener.so
 lib{,64}/libcam_utils.so
 lib{,64}/libcam.utils.so
 lib{,64}/libccci_util.so
-lib{,64}/libcurl.so
 lib{,64}/libcustom_nvram.so
 lib{,64}/libcvsd_mtk.so
 lib{,64}/libdngop.so
 lib{,64}/libdpframework.so
-lib{,64}/libdrmframework_jni.so
-lib{,64}/libdrmframework.so
 lib{,64}/libdrmmtkutil.so
 lib{,64}/libdrmmtkwhitelist.so
 lib{,64}/libem_support_jni.so
@@ -161,7 +157,6 @@ lib{,64}/libimageio.so
 lib{,64}/libion_mtk.so
 lib{,64}/libJpgDecPipe.so
 lib{,64}/libJpgEncPipe.so
-lib{,64}/liblogwrap.so
 lib{,64}/libm4u.so
 lib{,64}/libmal.so
 lib{,64}/libmatv_cust.so
@@ -175,7 +170,6 @@ lib{,64}/libmnl.so
 lib{,64}/libmp4enc_sa.ca7.so
 lib{,64}/libmrdump.so
 lib{,64}/libmsbc_mtk.so
-lib{,64}/libm.so
 lib{,64}/libmtcloader.so
 lib{,64}/libMTKAudioTimeStretch.so
 lib{,64}/libmtkcamera_client.so
@@ -200,7 +194,6 @@ lib{,64}/libmtkshifter.so
 lib{,64}/libMtkVideoSpeedEffect.so
 lib{,64}/libMtkVideoTranscoder.so
 lib{,64}/libn3d3a.so
-lib{,64}/libnfc_ndef.so
 lib{,64}/libnvramagentclient.so
 lib{,64}/libnvram_daemon_callback.so
 lib{,64}/libnvram_platform.so
